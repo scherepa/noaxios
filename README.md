@@ -1,4 +1,4 @@
-# Fetching may be done withou axios in react apps
+# Fetching may be done without axios in react apps
 ## Doing it just for learning with axios it's better
 
 
