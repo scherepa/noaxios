@@ -1,3 +1,7 @@
+# Fetching may be done withou axios in react apps
+## Doing it just for learning with axios it's better
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
